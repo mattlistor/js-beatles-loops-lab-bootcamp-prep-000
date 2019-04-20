@@ -6,4 +6,4 @@ function theBeatlesPlay(players, instruments ) {
   return arrayOfStrings;
 }
 
-function jo
+function theBeatlesPlay
