@@ -1,4 +1,4 @@
-function theBeatlesPlay(players, instruments ) {
+function theBeatlesPlay(players, instruments ){
   var arrayOfStrings = [];
   for (var counter = 0; counter < players.length; counter++){
     arrayOfStrings.push(players[counter] + " plays " + instruments[counter])
@@ -6,4 +6,9 @@ function theBeatlesPlay(players, instruments ) {
   return arrayOfStrings;
 }
 
-function theBeatlesPlay
+function johnLennonFacts(arrayOfFacts){
+  var counter =  0;
+  while (counter < arrayOfFacts.length){
+    arrayOfFacts[counter] = 
+  }
+}
