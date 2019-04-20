@@ -18,6 +18,6 @@ function johnLennonFacts(arrayOfFacts){
 function iLoveTheBeatles(num){
   var newArray = [];
   do{
-    
-  } while(condition);
+    newArray.push = "I love the Beatles!";
+  } while();
 }
